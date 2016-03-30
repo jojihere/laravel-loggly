@@ -1,5 +1,5 @@
 {
-    "name": "foxxmd/laravel-loggly",
+    "name": "jojihere/laravel-loggly",
     "description": "Loggly logging integration for Laravel projects",
     "keywords": ["laravel", "loggly", "monitoring", "error", "logging"],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.3",
         "illuminate/support": "4.*|5.*",
-        "monolog/monolog": "~1.14.0"
+        "monolog/monolog": "~1.14"
     },
     "require-dev": {
         "orchestra/testbench": "3.0.*",
